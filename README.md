@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I’m **Georg Püschel** 👋  
 
-<!--
-**gpue/gpue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm one of the Wandelbots Co-founder with focus *robotic automation technologies*, and *AI-augmented workflows*. I like building products and platforms that help teams solve real problems and make better decisions.
 
-Here are some ideas to get you started:
+## 🔹 What I’m Involved With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 [Wandelbots](https://www.wandelbots.com)
+A software-centric platform for industrial robot automation. Its core is a unified, vendor-agnostic operating system and cloud infrastructure that helps teams plan, simulate, deploy, and optimize robotics workflows across hardware brands and environments. The platform brings modern software practices — real-time control, simulation, APIs, and cloud-native tooling — to automation and robot orchestration.
+
+GitHub: https://github.com/wandelbots
+
+### 🪄 [CastSpells](https://castspells.io)
+A product discovery and management workspace that uses AI to help teams from idea to validated roadmap. CastSpells brings together research, insights, hypotheses, and evidence in one place — supporting structured product discovery, validation workflows, and decision-making based on real data rather than guesswork. :contentReference[oaicite:1]{index=1}
+
+GitHub: https://github.com/spellcast
+
+
